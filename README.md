@@ -1,5 +1,7 @@
 Udemy Course Analysis Dashboard
 
+![Dashboard Screenshot](Udemy-Analysis-Screenshot.png)
+
 This project is a Power BI dashboard built to analyze Udemy course data. It provides insights into course pricing, popularity, number of subscribers, and reviews across different categories.
 
 Tools Used
